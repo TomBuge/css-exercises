@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.sadie, .zack {
+    font-size: 28px;
+    font-family:  Helvetica, "Times New Roman", "sans-serif" ;
+}
+
+.sadie {
+    color: white;
+    background-color: black;
+
+}
+
+.zack {
+    background-color: yellow;
+}
