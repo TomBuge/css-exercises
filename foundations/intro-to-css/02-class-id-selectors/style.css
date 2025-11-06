@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.odds {
+    background-color: hsl(15, 72%, 70%);
+    font-family: Verdana, Dejavu Sans, sans-serif;
+    
+}
+
+.odds.third {
+    font-size: 24px;
+}
+
+#number-two {
+    color: blue;
+    font-size: 36px;
+}
+
+#number-four {
+    background-color: hsl(128, 70%, 70%);
+    font-size: 24px;
+    font-weight: bold;
+}
